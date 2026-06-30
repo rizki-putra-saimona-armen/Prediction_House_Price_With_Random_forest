@@ -6,7 +6,7 @@ Repository ini berisi proyek analisis regresi untuk memprediksi target kontinu m
 * **Data Preprocessing & Cleaning:** Penanganan *outliers* (pencilan) dan analisis distribusi data.
 * **Feature Scaling Experiment:** Eksperimen perbandingan penanganan fitur menggunakan `MinMaxScaler`, `StandardScaler`, dan `RobustScaler` untuk melihat dampaknya pada model.
 * **Machine Learning Modeling:** Implementasi *Random Forest Regressor* menggunakan *Scikit-Learn*.
-* **Comprehensive Evaluation:** Evaluasi mendalam menggunakan metrik **MAE (Mean Absolute Error)**, **MSE (Mean Squared Error)**, dan **RMSE (Root Mean Squared Error)**.
+
 
 ---
 
